@@ -7,7 +7,7 @@ module.exports = {
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'bundle.js',
-        publicPath: 'https://vicktorbs.github.io/react-shop/',
+        publicPath: '/',
     },
     mode: 'development',
     resolve: {
